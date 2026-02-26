@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "rest-api-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build a Task Manager REST API using FastAPI and Pydantic, with full CRUD endpoints.",
+      "path": "assignments/rest-api-fastapi",
+      "dueDate": "2026-03-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
